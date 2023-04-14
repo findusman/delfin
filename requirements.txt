@@ -1,0 +1,9 @@
+subscription: when someone joins they pay $133 first year ($109 per year + one-time processing fee of $24)
+
+and then they're charged every year on their anniversary for $109
+
+
+Strip details:
+
+stripe info - info@indianarealestatelicenseholding.com
+soDDIT10!!
